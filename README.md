@@ -13,6 +13,8 @@ Tech{for}All é uma iniciativa dedicada à promoção da inclusão digital e edu
 - MindMap
 - Jornada do Usuário
 - Diagrama do Macroprocesso
+- Backlog
+- Diagrama de Caso de Uso (UML)
 - Outros...
 
 ## Funcionalidades Principais
